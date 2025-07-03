@@ -1,0 +1,58 @@
+# 🤖 MAGO - Chatbot Inteligente com IA e Integração WhatsApp
+
+**MAGO** é um chatbot avançado que utiliza Inteligência Artificial para conversar sobre qualquer assunto. Ele interage naturalmente até o usuário solicitar contato direto, momento em que encaminha para atendimento via WhatsApp.
+
+---
+
+## 🚀 Funcionalidades
+
+- Conversa fluida e contextualizada com IA  
+- Capaz de tratar diversos temas, adaptando o diálogo  
+- Redirecionamento automático para WhatsApp ao pedido do usuário  
+- Integração simples e eficiente entre chatbot e canal direto de atendimento  
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- Modelos avançados de IA para NLP (Natural Language Processing)  
+- API de WhatsApp para encaminhamento de mensagens  
+- Backend robusto para gerenciamento de sessões e contexto  
+- Interface amigável para fácil integração em sites e apps  
+
+---
+
+## 🧩 Caso de Uso
+
+Ideal para empresas que querem oferecer atendimento automático inteligente, com a opção de escalonamento humano via WhatsApp, garantindo experiência personalizada e suporte ágil.
+
+---
+
+## 📦 Como usar
+
+1. Incorpore o chatbot em sua plataforma (site, app, etc.)  
+2. Configure o backend para suportar sessões e chamadas de API de IA  
+3. Defina o gatilho para encaminhamento ao WhatsApp  
+4. Monitore e ajuste conforme feedback dos usuários  
+
+---
+
+## 📞 Contato
+
+Para dúvidas ou parcerias:  
+**Tiago Santos**  
+📧 sanguec@live.com  
+📱 +55 11 98222-8822  
+🔗 [LinkedIn](https://linkedin.com/in/tiagosants)  
+🐙 [GitHub](https://github.com/tiagosaants)
+
+---
+
+## 🎩 Sobre o MAGO
+
+MAGO é mais que um chatbot — é seu assistente digital mágico, capaz de encantar conversas e levar o usuário até você com agilidade e inteligência.
+
+---
+
+*Este projeto é parte do meu portfólio de IA e automação.*
+
