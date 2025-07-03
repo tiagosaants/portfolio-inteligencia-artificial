@@ -1,52 +1,43 @@
-# 🤖 PORTFÓLIO DE INTELIGÊNCIA ARTIFICIAL – TIAGO SANTOS
+# 🤖 AI Portfolio – Tiago Santos
 
-Olá! Sou **Tiago Santos**, desenvolvedor Full Stack especializado em  
-**Inteligência Artificial, Cibersegurança e Blockchain**.  
-Aqui você encontra meus estudos, projetos e certificações em IA com foco em aplicações reais, automação e segurança digital.
+Este repositório apresenta meus projetos, estudos e certificações na área de **Inteligência Artificial**, com foco em aplicações reais, automação e segurança digital.
 
-───────────────────────────────
+---
 
-📌 CERTIFICAÇÕES  
-───────────────────────────────  
-- 🏅 [Google AI Essentials](./certificados/google-ai-essentials.pdf)  
-- 🏅 [Google Prompt Engineering](./certificados/google-prompt-engineering.pdf)  
+## 🏅 Certificações
 
-───────────────────────────────
+[![Google AI Essentials Badge](https://images.credly.com/size/340x340/images/1c77ce78-b3b3-4649-a4d9-0f236f220222/image.png)](https://www.credly.com/badges/1c77ce78-b3b3-4649-a4d9-0f236f220222)  
+*Google AI Essentials* — Medalha oficial do Google Credly  
 
-🧪 PROJETOS EM DESTAQUE  
-───────────────────────────────  
-🔹 **bot-ia-prompt**  
-Bot inteligente com engenharia de prompts para automação e atendimento via NLP.
+- Google Prompt Engineering  
 
-🔹 **deteccao-ameacas-ia**  
-Sistema de IA para análise e detecção em tempo real de ameaças cibernéticas.
+---
 
-🔹 **integracao-ia-web3**  
-Projeto experimental de IA integrada a ambientes Web3 com autenticação descentralizada.
+## 📌 Expertise
 
-🔹 **mago-chatbot**  
-Chatbot que conversa sobre qualquer tema e redireciona para atendimento via WhatsApp.
+- Machine Learning & Deep Learning  
+- Processamento de Linguagem Natural (NLP)  
+- Engenharia de Prompts para modelos de linguagem  
+- Desenvolvimento de chatbots inteligentes  
+- Integração de IA com sistemas Web e Web3  
+- Análise e detecção de ameaças com IA  
 
-🔹 **busca-vagas-ia**  
-Chatbot para busca inteligente de vagas, personalizando resultados conforme habilidades.
+---
 
-───────────────────────────────
+## 🧪 Projetos Principais
 
-📄 DOCUMENTOS  
-───────────────────────────────  
-- 📑 [Apresentação do Portfólio (PDF)](./docs/tiago-santos-apresentacao-ia.pdf)
+- **bot-ia-prompt**: Bot de IA para automação e atendimento baseado em prompt engineering.  
+- **deteccao-ameacas-ia**: Sistema IA para identificação de padrões de ameaças cibernéticas.  
+- **integracao-ia-web3**: Projeto experimental de integração IA com ambientes Web3 e autenticação descentralizada.
 
-───────────────────────────────
+---
 
-🌐 CONTATO  
-───────────────────────────────  
-- 🔗 LinkedIn: [linkedin.com/in/tiagosants](https://linkedin.com/in/tiagosants)  
-- 🐙 GitHub: [github.com/tiagosaants](https://github.com/tiagosaants)  
-- 🌐 Site: [g.dev/tiagosants](https://g.dev/tiagosants)
+## 🌐 Contato
 
-───────────────────────────────
+**Tiago Santos**  
+📧 sanguec@live.com  
+📱 +55 11 98222-8822  
+🔗 [LinkedIn](https://www.linkedin.com/in/tiago-sants-295a1565/)
+---
 
-✨ ESTE PORTFÓLIO ESTÁ EM CONSTANTE EVOLUÇÃO,  
-COM FOCO EM INOVAÇÃO, SEGURANÇA E SOLUÇÕES INTELIGENTES.
-
-
+> 🚀 Apaixonado por IA, inovação e soluções que transformam negócios e vidas.
